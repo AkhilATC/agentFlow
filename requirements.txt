@@ -3,3 +3,4 @@ uvicorn
 llama-index
 llama-index-llms-ollama
 requests
+llama-index-embeddings-huggingface
